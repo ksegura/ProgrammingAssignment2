@@ -1,4 +1,6 @@
-
+# ****************************************************************
+# Funcions para invertir cualquiel mastriz cuadrada y almacenarla
+# en memoria para su uso posterior.
 # ****************************************************************
 
 makeCacheMatrix <- function(x = matrix()) {
